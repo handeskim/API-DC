@@ -6,8 +6,8 @@ class User extends REST_Controller {
 		parent::__construct();
 		$this->r = array('status'=>true,'result'=>null);
 		$this->apps = new core;
-		$this->params = null;
-		$this->resller = null;
+		$this->params = array();
+		$this->resller = array();
 		$this->param = array();
 		$this->_level = $this->apps->_level_api($this->_api_key());
 		$this->_role = $this->apps->_role($this->_api_key());
@@ -19,6 +19,7 @@ class User extends REST_Controller {
 		);
 	}
 	public function info_get(){
+		$this->apps->_logs_user_api($_GET,'info_get');
 		if(!empty($this->_level)){
 				if(!empty($this->_role)){
 					if((int)$this->_level == 2 || (int)$this->_level == 3){
@@ -38,13 +39,238 @@ class User extends REST_Controller {
 		}else{ $this->r = $this->apps->_msg_response(1001);}
 		$this->response($this->r);
 	}
+	public function bank_info_get(){
+			$this->apps->_logs_user_api($_GET,'bank_info_get');
+			if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+											$this->params  = $this->apps->_users_bank($p);
+											if(!empty($this->params)){
+												$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+											}else{ $this->r = $this->apps->_msg_response(2014);}	
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}	
+	public function bank_del_get(){
+		$this->apps->_logs_user_api($_GET,'bank_del');
+			if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										if(!empty($p->bank_id)){
+												$this->params  = $this->apps->_users_bank_del($p);
+												if(!empty($this->params)){
+													$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+												}else{ $this->r = $this->apps->_msg_response(2014);}	
+										}else{ $this->r = $this->apps->_msg_response(2000);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function bank_get(){
+		$this->apps->_logs_user_api($_GET,'bank_get');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										if(!empty($p->auth)){
+											if(!empty($p->bank_id) || !empty($p->bank_name) || !empty($p->branch_bank)  || !empty($p->bank_account)  || !empty($p->account_holders) ){
+												if(!empty($p->provinces_bank)){
+													$this->params  = $this->apps->_users_bank_add($p);
+													if(!empty($this->params)){
+															$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+													}else{ $this->r = $this->apps->_msg_response(2014);}	
+												}else{ $this->r = $this->apps->_msg_response(2000);}
+											}else{ $this->r = $this->apps->_msg_response(2000);}
+										}else{ $this->r = $this->apps->_msg_response(2008);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function change_password_get(){
+		$this->apps->_logs_user_api($_GET,'change_password');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										if(!empty($p->password_old) || !empty($p->password_new)){
+											$this->params = $this->apps->_users_change_password($p);
+												if(!empty($this->params)){
+													$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+												}else{ $this->r = $this->apps->_msg_response(2000);}
+										}else{ $this->r = $this->apps->_msg_response(2000);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function developer_get(){
+		$this->apps->_logs_user_api($_GET,'change_password');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										$this->params = $this->apps->_users_developer($p);
+										if(!empty($this->params)){
+										$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+										}else{ $this->r = $this->apps->_msg_response(2000);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function developer_create_get(){
+		$this->apps->_logs_user_api($_GET,'change_password');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										$this->params = $this->apps->_users_developer_create($p);
+										if(!empty($this->params)){
+											$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+										}else{ $this->r = $this->apps->_msg_response(2000);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function change_auth_get(){
+		$this->apps->_logs_user_api($_GET,'change_password');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										if(!empty($p->password_old) || !empty($p->password_new)){
+											$this->params = $this->apps->_users_change_auth($p);
+												if(!empty($this->params)){
+													$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+												}else{ $this->r = $this->apps->_msg_response(2000);}
+										}else{ $this->r = $this->apps->_msg_response(2000);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function update_get(){
+		$this->apps->_logs_user_api($_GET,'update_get');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+								if(!empty($p->client_id)){
+									if(!empty($p->token)){
+										if(!empty($p->auth)){
+											$this->params  = $this->apps->_users_update($p);
+											if(!empty($this->params)){
+												$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+											}else{ $this->r = $this->apps->_msg_response(2013);}	
+										}else{ $this->r = $this->apps->_msg_response(2008);}
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+								}else{ $this->r = $this->apps->_msg_response(2000);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
+	public function login_get(){
+		$this->apps->_logs_user_api($_GET,'login_get');
+		if(!empty($this->_level)){
+				if(!empty($this->_role)){
+					if((int)$this->_level == 2 || (int)$this->_level == 3){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+							if(!empty($_GET['param'])){
+								$p = $this->apps->_params($_GET['param'],$this->_api_key());
+									if(!empty($p->token)){
+											if(!empty($p->username)){
+												if(!empty($p->password)){
+													$this->params = $this->apps->_user_login($p);
+													if(!empty($this->params)){
+														$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+													}else{ $this->r = $this->apps->_msg_response(2013);}
+												}else{ $this->r = $this->apps->_msg_response(2011);}												
+											}else{ $this->r = $this->apps->_msg_response(2011);}												
+									}else{ $this->r = $this->apps->_msg_response(2011);}
+							}else{ $this->r = $this->apps->_msg_response(2000);}
+						}else{ $this->r = $this->apps->_msg_response(1002);}
+					}else{ $this->r = $this->apps->_msg_response(1001);}
+				}else{ $this->r = $this->apps->_msg_response(1002);}
+		}else{ $this->r = $this->apps->_msg_response(1001);}
+		$this->response($this->r);
+	}
 	public function create_get(){
+		$this->apps->_logs_user_api($_GET,'create_get');
 		if(!empty($this->_level)){
 			if(!empty($this->_role)){
 				if((int)$this->_level == 2 || (int)$this->_level == 3){
 					if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
 						if(!empty($_GET['param'])){
 							$p = $this->apps->_params($_GET['param'],$this->_api_key());
+							
 							if(!empty($p->email) || !empty($p->username) || !empty($p->password) || !empty($p->auth) || !empty($p->phone) || !empty($p->full_name) ){
 								if(email_regex($p->email)==true){
 									if(strlen($p->password) > 5 || strlen($p->password) < 32){
@@ -55,8 +281,8 @@ class User extends REST_Controller {
 											if(!empty($p->birthday)){ $birthday = $p->birthday; }else{ $birthday = null; }
 											if(!empty($p->avatar)){ $avatar = $p->avatar; }else{ $avatar = null; }
 											if(!empty($p->token)){
-												$this->resller = $this->apps->_token_reseller($p->token);
-												if(!empty($this->resller)){
+												$resller = $this->apps->_token_reseller($p->token);
+												if(!empty($resller)){
 													$check = $this->apps->_user_create_check($p->username,$p->email);
 													if(empty($check)){
 														$this->param = array(
@@ -75,7 +301,7 @@ class User extends REST_Controller {
 															'time_crate'=>time(),
 															'avatar'=> $avatar,
 															'role'=> 4,
-															'reseller'=> $this->resller,
+															'reseller'=> $resller,
 														);
 														$this->params = $this->apps->_action_insert_user($this->param);
 														if(!empty($this->params)){

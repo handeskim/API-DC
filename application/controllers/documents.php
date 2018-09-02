@@ -13,53 +13,23 @@ class Documents extends REST_Controller {
 		$this->r = array('status'=>200,'result'=>null);
 		$this->obj = array( 'command'=> array(
 							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							
 							'auth' => '(string) Password Account // Mật khẩu giao dịch của tài khoản', )
 					);
 	}
 	public function index_get(){
 		
-		$this->r['_api_key'] = $this->_api_key();
+		$this->r['_api_name'] = $this->_api_key();
+		$this->r['_merchant_id'] = $this->_api_key();
 		$this->r['_level'] = $this->_level;
 		$this->r['SERVER _ API'] = base_url();
-		$this->r['hello'] = array(
-			'url' => base_url('hello?'.$this->apps->_api_name().'={your_secret_key}'),
-			'method' => 'GET',
-			'command' =>  array(
-						'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-						'secret_key' => '(string) secret key //YOUR API CREATED', ),
-			'response'=> array(
-				'status'=> '(int) status code',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
-				'msg' => '(string) thông báo từ hệ thống',
-			),
-		);
-		$this->r['connect'] = array(
-			'url' => base_url('connect'.$this->apps->_api_name().'={your_secret_key}'),
-			'method' => 'GET',
-			'param' => array(
-				'username'=> 'Tài khoản Reseller ID',
-				'password'=> 'Mật khẩu Reseller ID',
-				'auth'=> 'Mật khẩu Bảo mật Reseller ID',
-			),
-			'command' =>  array(
-					'api_name' => $this->apps->_api_name(),
-					'secret_key' => '(string) secret key //YOUR API CREATED',
-					'param' => 'encrypt({param})',
-					),
-			'response'=> array(
-				'status'=> '(int) status code',
-				'description'=> 'Hệ thống trả về chuỗi Token Nhận dạng Reseller để thao tác quản lý, Thêm, Sửa, Xóa.... bao gồm các trường có bắt buộc token',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
-				'result' => array('(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu,',
-						array('token'=>'string token'),
-					),
-				'msg' => '(string) thông báo từ hệ thống',
-			),
-		);
-		
+		$this->doc_hello();
+		$this->doc_connect();
+		$this->doc_developer();
+		$this->doc_balancer();
+		$this->doc_bank();
 		$this->r['check'] = array(
-			'url' => base_url('check'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('api/check'.$this->apps->_api_name().'='.$this->_api_key()),
 			'method' => 'GET',
 			'param' => array(
 				'card_type' => array (
@@ -71,58 +41,37 @@ class Documents extends REST_Controller {
 				'card_amount' => '(integer) Mệnh giá <card_type><amount> Validate',
 			),
 			'command' =>  array(
-						'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-						'secret_key' => '(string) secret key //YOUR API CREATED',
-						'auth' => '(string) Password Account // Mật khẩu giao dịch của tài khoản', 
-						'data' => '(string) encrypt(param) dữ liệu đã mã hóa bằng hàm encrypt để đưa dữ liệu lên', 
-						
-						),
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
 			'response'=> array(
 				'status'=> '(integer) status code',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 				'data' => '(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu',
 				'msg' => '(string) thông báo từ hệ thống',
 				'amount' => '(int) Mệnh giá thẻ cào nếu gửi yêu cầu thành công',
 			),
 		);
 		$this->r['transaction'] = array(
-			'url' => base_url('transaction'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('api/transaction'.$this->apps->_api_name().'='.$this->_api_key()),
 			'method' => 'GET',
 			'param' => array(
 				'transaction_id' => '(string) transaction id ',
 			),
 			'command' =>  array(
-						'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-						'secret_key' => '(string) secret key //YOUR API CREATED',
-						'auth' => '(string) Password Account // Mật khẩu giao dịch của tài khoản', 
-						'data' => '(string) encrypt(param) dữ liệu đã mã hóa bằng hàm encrypt để đưa dữ liệu lên', 
-						
-						),
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
 			'response'=> array(
 				'status'=> '(integer) status code',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 				'data' => '(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu',
 				'msg' => '(string) thông báo từ hệ thống',
 			),
 		);
-		$this->r['balancer'] = array(
-			'url' => base_url('balancer'.$this->apps->_api_name().'={your_secret_key}'),
-			'method' => 'GET',
-			'command' =>  array(
-						'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-						'secret_key' => '(string) secret key //YOUR API CREATED',
-						'auth' => '(string) Password Account // Mật khẩu giao dịch của tài khoản', 
-						'data' => '(string) encrypt(param) dữ liệu đã mã hóa bằng hàm encrypt để đưa dữ liệu lên', 
-						),
-			'response'=> array(
-				'status'=> '(integer) status code',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
-				'data' => '(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu',
-				'msg' => '(string) thông báo từ hệ thống',
-			),
-		);
+		
 		$this->r['transfer'] = array(
-			'url' => base_url('transfer'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('api/transfer'.$this->apps->_api_name().'='.$this->_api_key()),
 			'method' => 'GET',
 			'description' => 'Là giao dịch dùng để chuyển số dư giữa các tài khoản',
 			'param' => array(
@@ -146,21 +95,18 @@ class Documents extends REST_Controller {
 					),
 			),
 			'command' =>  array(
-						'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-						'secret_key' => '(string) secret key //YOUR API CREATED',
-						'auth' => '(string) Password Account // Mật khẩu giao dịch của tài khoản', 
-						'data' => '(string) encrypt(param) dữ liệu đã mã hóa bằng hàm encrypt để đưa dữ liệu lên', 
-						
-						),
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
 			'response'=> array(
 				'status'=> '(integer) status code',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 				'data' => '(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu',
 				'msg' => '(string) thông báo từ hệ thống',
 			),
 		);
 		$this->r['code_status'] = array(
-			'url' => base_url('code?'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('api/code?'.$this->apps->_api_name().'='.$this->_api_key()),
 			'method' => 'GET',
 			'description' => array(
 				'status_0' => '1 => 999 Mã lỗi thuộc hệ thống, kết nối...',
@@ -171,25 +117,26 @@ class Documents extends REST_Controller {
 			),
 			'param' => array( 'code' => 'Mã lỗi' ),
 			'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
 							),
 			'response'=> array(
 				'status'=> '(int) status code',
-				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 				'data' => 'info mã lỗi',
 			)
 		);	
 		if($this->_level == 2){
 			$this->r['site'] = array(
-			'url' => base_url('site/info?'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('apps/site/info?'.$this->apps->_api_name().'='.$this->_api_key()),
 				'method' => 'GET',
 				'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED', ),
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
 				'response'=> array(
 					'status'=> '(int) status code',
-					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 					'data' => 'info_site',
 				),
 			);
@@ -201,17 +148,37 @@ class Documents extends REST_Controller {
 					'id_user' => 'ID tài khoản (required)',
 				),
 				'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
 							),
 				'response'=> array(
 					'status'=> '(int) status code',
-					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 					'data' => 'info_user',
 				),
 			);
+			$this->r['user_login'] = array(
+			'url' => base_url('api/user/login?'.$this->apps->_api_name().'='.$this->_api_key()),
+				'method' => 'GET',
+				'Description' => 'Phương thức GET là để Lấy Thông tin user, ',
+				'param' => array(
+					'username' => 'Tên đăng nhập (required)',
+					'password' => 'Mật khẩu cấp 1 (required)',
+					'token' => 'Token Connect API (required)',
+				),
+				'command' =>  array(
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
+				'response'=> array(
+					'status'=> '(int) status code',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+					'data' => 'info_user',
+				),
+			);
+			
 			$this->r['user_create'] = array(
-			'url' => base_url('user/create?'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('api/user/create?'.$this->apps->_api_name().'='.$this->_api_key()),
 				'method' => 'GET',
 				'Description' => 'Phương thức GET là để Thêm user, ',
 				'param' => array(
@@ -229,22 +196,22 @@ class Documents extends REST_Controller {
 					
 				),
 				'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
 							),
 				'response'=> array(
 					'status'=> '(int) status code',
-					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 					'data' => 'info_user',
 				),
 			);
 			$this->r['user_update'] = array(
-			'url' => base_url('user/update?'.$this->apps->_api_name().'={your_secret_key}'),
+			'url' => base_url('api/user/update?'.$this->apps->_api_name().'='.$this->_api_key()),
 				'method' => 'GET',
 				'Description' => 'Phương thức GET là để cập nhập thông tin user, ',
 				'param' => array(
 					'token' => 'Token API Reseller',
-					'id_user' => 'ID tài khoản (required)',
+					'client_id' => 'ID tài khoản (required)',
 					'email' => 'email tài khoản (required)',
 					'username' => 'tên người dùng không dưới 6 ký tự (required)',
 					'password' => 'mật khẩu không dưới 8 ký tự  <= 32 ký tự (required)',
@@ -258,36 +225,65 @@ class Documents extends REST_Controller {
 					'avatar' => 'URL images',
 				),
 				'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
 							),
 				'response'=> array(
 					'status'=> '(int) status code',
-					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 					'data' => 'info_user',
 				),
 			);
-			$this->r['user_del'] = array(
-			'url' => base_url('user/del?'.$this->apps->_api_name().'={your_secret_key}'),
+			$this->doc_user_info();
+			$this->doc_user_del();
+		
+		
+		}
+		
+		$this->response($this->r);
+	}
+	private function doc_balancer(){
+		$balancer = array(
+			'url' => base_url('api/balancer?'.$this->apps->_api_name().'='.$this->_api_key()),
+			'method' => 'GET',
+			'description' => 'Client ID // lấy từ kết quả token trả về lúc đăng ký tài khoản hệ thống trả về Clients ID hoặc từ việc tới api/users',
+			'param' =>  array( 
+				'client_id'=> 'CLIENT ID ',
+				'token'=> 'Token Connection // lấy từ kết quả token trả về từ connect'
+			),
+			'command' =>  array(
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
+			'response'=> array(
+				'status'=> '(integer) status code',
+				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+				'data' => '(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu',
+				'msg' => '(string) thông báo từ hệ thống',
+			),
+		);
+		return $this->r['balancer'] = $balancer;
+	}
+	private  function doc_hello(){
+			$hello = array(
+				'url' => base_url('hello?'.$this->apps->_api_name().'='.$this->_api_key()),
 				'method' => 'GET',
-				'Description' => 'Phương thức GET là để xóa user, ',
-				'param' => array(
-					'token' => 'Token API Reseller',
-					'id_user' => 'ID tài khoản (required)',
-					
-				),
 				'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
 							),
 				'response'=> array(
 					'status'=> '(int) status code',
-					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
-					'data' => 'info_user',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+					'msg' => '(string) thông báo từ hệ thống',
 				),
 			);
-			$this->r['user_info'] = array(
-			'url' => base_url('user/info?'.$this->apps->_api_name().'={your_secret_key}'),
+			return $this->r['hello'] = $hello;
+	}		
+	
+	private  function doc_user_info(){
+			$user_info = array(
+			'url' => base_url('api/user/info?'.$this->apps->_api_name().'='.$this->_api_key()),
 				'method' => 'GET',
 				'Description' => 'Phương thức GET là để xem thông tin user duy nhất, ',
 				'param' => array(
@@ -296,20 +292,125 @@ class Documents extends REST_Controller {
 					
 				),
 				'command' =>  array(
-							'merchant_id' => '(string) Merchant ID //YOUR API CREATED',
-							'secret_key' => '(string) secret key //YOUR API CREATED',
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
 							),
 				'response'=> array(
 					'status'=> '(int) status code',
-					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra giao dịch',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
 					'data' => 'info_user',
 				),
 			);
-		}
-		
-		$this->response($this->r);
+			return $this->r['user_info'] = $user_info;
+	}	
+	private  function doc_bank(){
+			$bank = array(
+				'url' => base_url('api/bank?'.$this->apps->_api_name().'='.$this->_api_key()),
+				'method' => 'GET',
+				'command' =>  array(
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
+				'response'=> array(
+					'status'=> '(int) status code',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+					'msg' => '(string) thông báo từ hệ thống',
+					'result' => 'không mã hóa ',
+				),
+			);
+			return $this->r['bank'] = $bank;
 	}
 	
+	private  function doc_usersbank(){
+			$bank = array(
+				'url' => base_url('api/user/bank?'.$this->apps->_api_name().'='.$this->_api_key()),
+				'method' => 'GET',
+				'param' => array(
+					'id_client'=> 'Client ID',
+					'token'=> 'Token Từ connect API',
+				),
+				'command' =>  array(
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
+				'response'=> array(
+					'status'=> '(int) status code',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+					'msg' => '(string) thông báo từ hệ thống',
+				),
+			);
+			return $this->r['bank'] = $bank;
+	}	
+	private  function doc_developer(){
+			$bank = array(
+				'url' => base_url('api/user/developer?'.$this->apps->_api_name().'='.$this->_api_key()),
+				'method' => 'GET',
+				'description' => 'Phương thức dùng để kiểm tra một tài khoản nhà phát triển,',
+				'param' => array(
+					'id_client'=> 'Client ID',
+					'token'=> 'Token Từ connect API',
+				),
+				'command' =>  array(
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
+				'response'=> array(
+					'status'=> '(int) status code',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+					'msg' => '(string) thông báo từ hệ thống',
+				),
+			);
+			return $this->r['bank'] = $bank;
+	}	
+	
+	private  function doc_user_del(){
+				$user_del = array(
+			'url' => base_url('api/user/del?'.$this->apps->_api_name().'='.$this->_api_key()),
+				'method' => 'GET',
+				'description' => 'Phương thức GET là để xóa user, ',
+				'param' => array(
+					'token' => 'Token API Reseller',
+					'id_user' => 'ID tài khoản (required)',
+				),
+				'command' =>  array(
+							'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+							'param' => 'encrypt(param)',
+							),
+				'response'=> array(
+					'status'=> '(int) status code',
+					'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+					'data' => 'info_user',
+				),
+			);
+			return $this->r['user_user_del'] = $user_del;
+	}	
+	
+	
+	private function doc_connect(){
+		$connect = array(
+			'url' => base_url('api/connect?'.$this->apps->_api_name().'='.$this->_api_key()),
+			'method' => 'GET',
+			'param' => array(
+				'username'=> 'Tài khoản Reseller ID',
+				'password'=> 'Mật khẩu Reseller ID',
+				'auth'=> 'Mật khẩu Bảo mật Reseller ID',
+			),
+			'command' =>  array(
+					'_api_name' => '(string) Merchant ID //YOUR API CREATED',
+					'param' => 'encrypt({param})',
+					),
+			'response'=> array(
+				'status'=> '(int) status code',
+				'description'=> 'Hệ thống trả về chuỗi Token Nhận dạng Reseller để thao tác quản lý, Thêm, Sửa, Xóa.... bao gồm các trường có bắt buộc token',
+				'transaction_id'=> '(string) Transaction ID mã giao dịch api sử dụng để kiểm tra lịch sử lệnh và trả về từ api',
+				'result' => array('(string) data // dữ liệu mã hóa, giải mã bằng hàm decrypt để lấy dữ liệu,',
+						array('token'=>'string token'),
+					),
+				'msg' => '(string) thông báo từ hệ thống',
+			),
+		);
+		return $this->r['connect'] = $connect;
+	}
 	
 	
 	

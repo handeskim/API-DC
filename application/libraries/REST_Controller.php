@@ -466,6 +466,7 @@ class REST_Controller extends CI_Controller {
 			'api_key' => isset($this->rest->key) ? $this->rest->key : '',
 			'ip_address' => $this->input->ip_address(),
 			'time' => function_exists('now') ? now() : time(),
+			'date_create' => date("Y-m-d H:i:s",time()),
 			'authorized' => $authorized,
 		);
 		$this->mongo_db->insert(config_item('rest_logs_collection'), $log);
