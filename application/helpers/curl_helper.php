@@ -12,3 +12,18 @@ function getcURL($url){
 	curl_close($ch);
 	return $result;
 }
+
+function postUrl($url, $data) {
+    $headerArray = array('Content-Type: application/json; charset=UTF-8',);
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headerArray);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 60);
+    $result = curl_exec($ch);
+    $result = json_decode($result, true);
+    return $result;
+}
+

@@ -2,7 +2,7 @@
 class Global_model extends CI_Model {
 	function __construct(){
 		parent::__construct();
-		// $this->r = array('status'=>false,'result'=>null);
+		$this->r = array('status'=>false,'result'=>null);
 		
 	}
 	

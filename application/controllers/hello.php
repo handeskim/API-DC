@@ -13,8 +13,7 @@ class Hello extends REST_Controller {
 	}
 	public function index_get(){
 		$this->r['level'] = $this->_level;
-		$this->r['service'] = base_url();
-		$this->r['service'] = base_url();
+		$this->r['service'] = base_url('card');
 		$this->r['api_name'] = $this->apps->_api_name();
 		$this->response($this->r);
 	}

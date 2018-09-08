@@ -5559,3 +5559,1936 @@ ERROR - 03-Sep-2018 01:33:37 --> Severity: Notice  --> Trying to get property of
 ERROR - 03-Sep-2018 01:33:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
 ERROR - 03-Sep-2018 01:33:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
 ERROR - 03-Sep-2018 01:33:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 02:30:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_id /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 44
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_name /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 45
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_option /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 46
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: account_holders /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 47
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_account /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 48
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: branch_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 49
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: provinces_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 50
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_id /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 44
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_name /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 45
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_option /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 46
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: account_holders /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 47
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: bank_account /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 48
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: branch_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 49
+ERROR - 03-Sep-2018 02:54:19 --> Severity: Notice  --> Undefined variable: provinces_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 50
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_id /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 45
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_name /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 46
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_option /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 47
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: account_holders /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 48
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_account /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 49
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: branch_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 50
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: provinces_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 51
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_id /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 45
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_name /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 46
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_option /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 47
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: account_holders /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 48
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: bank_account /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 49
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: branch_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 50
+ERROR - 03-Sep-2018 02:54:34 --> Severity: Notice  --> Undefined variable: provinces_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 51
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_id /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 45
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_name /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 46
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_option /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 47
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: account_holders /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 48
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_account /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 49
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: branch_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 50
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: provinces_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 51
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_id /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 45
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_name /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 46
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_option /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 47
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: account_holders /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 48
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: bank_account /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 49
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: branch_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 50
+ERROR - 03-Sep-2018 02:55:00 --> Severity: Notice  --> Undefined variable: provinces_bank /var/www/clients/client0/web2/web/application/modules/api/controllers/balancer.php 51
+ERROR - 03-Sep-2018 03:28:46 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:46 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:46 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:47 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:47 --> Severity: Warning  --> is_file(): open_basedir restriction in effect. File(application/controllers/test.php/documents.php) is not within the allowed path(s): (/var/www/clients/client0/web2/web:/var/www/clients/client0/web2/private:/var/www/clients/client0/web2/tmp:/var/www/api.demo2308.handesk.xyz/web:/srv/www/api.demo2308.handesk.xyz/web:/usr/share/php5:/usr/share/php:/tmp:/usr/share/phpmyadmin:/etc/phpmyadmin:/var/lib/phpmyadmin:/dev/random:/dev/urandom) /var/www/clients/client0/web2/web/application/third_party/MX/Router.php 128
+ERROR - 03-Sep-2018 03:28:47 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:47 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:48 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:48 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:48 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:48 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:49 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:49 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:49 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:49 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:50 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:50 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:50 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:51 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:51 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:51 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:51 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:52 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:52 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:52 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:53 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:53 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:53 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:54 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:54 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:54 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:54 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:55 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:55 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:55 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:56 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:56 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:56 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:57 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:57 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:57 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:58 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:58 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:58 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:59 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:59 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:59 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:28:59 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:00 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:00 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:01 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:01 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:01 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:02 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:02 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:02 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:02 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:04 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:04 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:12 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:12 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:12 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:13 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:13 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:13 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:14 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:14 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:14 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:14 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:15 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:15 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:15 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:15 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:16 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:16 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:16 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:16 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:17 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:17 --> Severity: Warning  --> is_file(): open_basedir restriction in effect. File(application/controllers/test.php/documents.php) is not within the allowed path(s): (/var/www/clients/client0/web2/web:/var/www/clients/client0/web2/private:/var/www/clients/client0/web2/tmp:/var/www/api.demo2308.handesk.xyz/web:/srv/www/api.demo2308.handesk.xyz/web:/usr/share/php5:/usr/share/php:/tmp:/usr/share/phpmyadmin:/etc/phpmyadmin:/var/lib/phpmyadmin:/dev/random:/dev/urandom) /var/www/clients/client0/web2/web/application/third_party/MX/Router.php 128
+ERROR - 03-Sep-2018 03:29:17 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:18 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:18 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:19 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:19 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:19 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:20 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:20 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:20 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:21 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:21 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:22 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:22 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:22 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:22 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:23 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:23 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:23 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:24 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:24 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:24 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:24 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:25 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 03:29:25 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 04:12:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:12:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:14:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:49 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:54 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:55 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:56 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:15:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:16 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:20 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:42 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:16:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:09 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:12 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:12 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:12 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:12 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:13 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:14 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:18 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:19 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:21 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:22 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:24 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:39 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:57 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:17:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:25 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:26 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:29 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:31 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:32 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:34 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:37 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:38 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:44 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:46 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:48 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:50 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:51 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:52 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:18:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:02 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:06 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:07 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:19:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 04:41:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 05:04:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 05:40:41 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 05:41:16 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 05:56:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 05:56:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 06:28:53 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 07:20:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 08:50:08 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 09:17:27 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 09:29:43 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 09:43:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 10:11:35 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 10:31:17 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 11:04:23 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 11:12:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 13:04:28 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 13:18:36 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 13:18:36 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:38 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:38 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:39 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:39 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:39 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:40 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:41 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:41 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:42 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:42 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:42 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:44 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:45 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:47 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:48 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:49 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:49 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:51 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:52 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:55 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:56 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:56 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:57 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:58 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:58 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:18:59 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 13:19:01 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 13:19:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:03 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:04 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:04 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:04 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:04 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:05 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:06 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:08 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:09 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:10 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:19:11 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 13:20:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 14:10:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 15:39:58 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 16:39:19 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 16:39:20 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 16:39:20 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 18:05:15 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 19:08:07 --> 404 Page Not Found --> 
+ERROR - 03-Sep-2018 19:11:05 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 19:21:47 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 19:43:30 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 21:14:45 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 22:02:40 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 22:57:00 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 22:57:03 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 23:13:04 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778
+ERROR - 03-Sep-2018 23:20:33 --> Severity: Notice  --> Trying to get property of non-object /var/www/clients/client0/web2/web/application/libraries/Mongo_db.php 778

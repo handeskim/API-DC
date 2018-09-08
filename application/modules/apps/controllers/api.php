@@ -31,8 +31,12 @@ class Api extends REST_Controller {
 							$reseller = (string)$this->apps->_token_reseller($p->token);
 							if(!empty($p->token)){
 								if(!empty($p->client_id)){
-									$this->r['status'] = 1000;
-									$obj = $this->mongo_db->where(array('client_id'=>$p->client_id,'reseller'=>$reseller))->get('transfer_log');
+									$this->r = $this->apps->_msg_response(1000);
+									if(!empty($p->date_start)){$dstart = date("Y-m-d ",strtotime($p->date_start)).'00:00:00';}else{$dstart = date("Y-m-d ",time()).'00:00:00';}
+									if(!empty($p->date_end)){$dend = date("Y-m-d ",strtotime($p->date_end)).'23:59:59';}else{$dend = date("Y-m-d ",time()).'23:59:59';}
+									$date_start = strtotime($dstart);
+									$date_end =  strtotime($dend);
+									$obj = $this->mongo_db->where(array('client_id'=>$p->client_id,'reseller'=>$reseller))->where_gte('time_create',$date_start)->where_lte('time_create',$date_end)->get('transfer_log');
 									$object = array();
 									foreach($obj as $v){
 										$object[] = array(
@@ -51,6 +55,8 @@ class Api extends REST_Controller {
 												'client_id' => $v['client_id'],
 												'client_name' => $v['client_name'],
 												'reseller' => $v['reseller'],
+												'transaction' => $v['transaction'],
+												'type' => $v['type'],
 												'status' => $v['status'],
 												'action' => $v['action'],
 												'payer_id' => $v['payer_id'],

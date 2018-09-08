@@ -44,14 +44,16 @@ class User extends REST_Controller {
 			if(!empty($this->_level)){
 				if(!empty($this->_role)){
 					if((int)$this->_level == 2 || (int)$this->_level == 3){
-						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 2){
+						if((int)$this->_role == 1 || (int)$this->_role == 2 || (int)$this->_role == 3){
 							if(!empty($_GET['param'])){
 								$p = $this->apps->_params($_GET['param'],$this->_api_key());
 								if(!empty($p->client_id)){
 									if(!empty($p->token)){
 											$this->params  = $this->apps->_users_bank($p);
 											if(!empty($this->params)){
-												$this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
+												 $this->r = $this->apps->_msg_response(1000);
+												 $this->r['info_bank'] = $this->params;
+												// $this->r = $this->apps->_result(1000,array($this->params),$this->_api_key());
 											}else{ $this->r = $this->apps->_msg_response(2014);}	
 									}else{ $this->r = $this->apps->_msg_response(2011);}
 								}else{ $this->r = $this->apps->_msg_response(2000);}
@@ -292,7 +294,7 @@ class User extends REST_Controller {
 															'auth'=> md5($p->auth),
 															'phone'=> $p->phone,
 															'full_name'=> $p->full_name,
-															'address'=> $city,
+															'address'=> $address,
 															'city'=> $city,
 															'country'=> $country,
 															'balancer'=> 0,
@@ -301,6 +303,8 @@ class User extends REST_Controller {
 															'time_crate'=>time(),
 															'avatar'=> $avatar,
 															'role'=> 4,
+															'status'=> true,
+															'rose'=> 0,
 															'reseller'=> $resller,
 														);
 														$this->params = $this->apps->_action_insert_user($this->param);

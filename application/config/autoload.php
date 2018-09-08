@@ -16,7 +16,7 @@ $autoload['libraries'] = array('mongo_db','template','trackback','curl','form_va
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url', 'template','form','validate','dom','core');
+$autoload['helper'] = array('url', 'template','form','validate','dom','core','curl');
 
 
 /*

@@ -9,6 +9,7 @@ class Bank extends REST_Controller {
 		$this->obj = array();
 		$this->apps = new core;
 	}
+	
 	public function index_get(){
 		if(!empty($_GET['param'])){
 			$p = $this->apps->_params($_GET['param'],$this->_api_key());
