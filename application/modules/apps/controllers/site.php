@@ -76,7 +76,25 @@ class Site extends REST_Controller {
 			$this->r['result'] = $this->obj;
 		}
 		$this->response($this->r);
-		
+	}
+	public function info_service_payments_get(){
+		$this->obj = $this->mongo_db->where(array('status'=>'active'))->get("payment_service");
+		if(!empty($this->obj)){
+			foreach($this->obj as $v){
+				$this->param[] = array(
+					'_id' => getObjectid($v['_id']),
+					'name_service' => $v['name_service'],
+					'url_api' => $v['url_api'],
+					'receiver' => $v['receiver'],
+					'merchant_id' => $v['merchant_id'],
+					'merchant_pass' => $v['merchant_pass'],
+					'status' => $v['active'],
+					'title' => $v['title'],
+				);
+			}
+			$this->r['result'] = $this->param;
+		}
+		$this->response($this->r);
 	}
 	public function site_load_site_faq_post(){
 		$this->obj = $this->mongo_db->where(array('categories'=>'faq'))->order_by(array('time_create' => 'DESC'))->limit(5)->get("news");

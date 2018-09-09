@@ -233,6 +233,7 @@ class Card_cms extends REST_Controller {
 										'reseller' ,'card_deduct', 'card_rose','date_create', 
 										'card_status','card_message','transaction_service','transaction_card',))->where(array('_id' => new \MongoId($p->keys),'reseller'=>$this->reseller))->get('log_card_change');
 									}
+									
 									if(!empty($this->result)){
 										$r = array();
 										$e = array();

@@ -558,22 +558,26 @@ class Core extends MY_Controller {
 	}
 	public function _Service_Card_Change_Sendding($p){
 		$this->card_change = $this->_Service_Card_Change_Init();
-		
+			// return $this->card_change ;
 		if(!empty($p['card_seri'])){ $this->card_change['card_seri'] = $p['card_seri']; }else{ $this->card_change['card_seri'] = 1;}
 		if(!empty($p['card_code'])){ $this->card_change['card_code'] = $p['card_code']; }else{ $this->card_change['card_code'] = 1;}
 		if(!empty($p['card_type'])){ $this->card_change['card_type'] = $p['card_type']; }else{ $this->card_change['card_type'] = 1;}
 		if(!empty($p['card_amount'])){ $this->card_change['card_amount'] = $p['card_amount']; }else{ $this->card_change['card_amount'] = 1;}
+	
 		$note = $this->_doithe_transaction_create($p);
 		$this->card_change['note'] = $note;
 		$plaintext = $this->card_change['merchant_id']."|".$this->card_change['merchant_user']."|".$this->card_change['merchant_password']."|". $this->card_change['card_type']."|".$this->card_change['card_amount']."|".$this->card_change['card_seri']."|".$this->card_change['card_code'];
 		$this->card_change['sign'] = strtoupper(hash('sha256', $plaintext));
 		$this->url = $this->card_change['url'].'?merchant_id='.$this->card_change['merchant_id'].'&merchant_user='.$this->card_change['merchant_user'].'&merchant_password='.$this->card_change['merchant_password'].'&card_type='.$this->card_change['card_type'].'&card_amount='.$this->card_change['card_amount'].'&card_seri='.$this->card_change['card_seri'].'&card_code='.$this->card_change['card_code'].'&note='.urlencode($this->card_change['note']).'&sign='.$this->card_change['sign'];
+		
 		$this->obj = getcURL($this->url);
 		$this->obj = str_replace("\xEF\xBB\xBF",'',$this->obj); 
-		$this->obj = json_decode($this->obj); 
+		$this->obj = json_decode($this->obj);
+		$this->objects['tracking'] = $note;
 		
-		// $this->obj->amount = (int)$p['card_amount'];
-		// $this->obj->status = 2;
+		/////////////// TEST
+		// $this->obj = (object)array('amount'=>$p['card_amount']);
+		// $this->obj = (object)array('status'=>2);
 		////////////////Card Insert////////////////
 		if(!empty($p['card_type'])){$type = (int)$p['card_type'];}else{$type = 1;}
 		/////////////// Card Fee ///////////////////
@@ -596,7 +600,7 @@ class Core extends MY_Controller {
 		$this->objects['note'] = $note;
 		$this->objects['date_create'] = date("Y-m-d H:i:s",time());
 		$this->objects['time_create'] = time();
-		
+	
 		if(isset($this->obj->status)){
 			if(isset($this->obj->transaction_id)){
 				$transaction_service = (string)$this->obj->transaction_id;
@@ -606,7 +610,7 @@ class Core extends MY_Controller {
 			$status = $this->shopnapthe($this->obj->status);
 			$this->objects['card_status'] = $status['status'];
 			$this->objects['card_message'] = $status['msg'];
-			$this->objects['tracking'] = $note;
+			// $this->objects['tracking'] = $note;
 			if($this->obj->status==2){
 				///////////////////Client Info ////////////////////////////
 				$beneficiary_id = $p['client_id'];
@@ -663,10 +667,10 @@ class Core extends MY_Controller {
 			}
 		}else{
 			$this->objects['transaction_card'] = 'reject';
-			$this->objects['card_status'] = 2000;
-			$this->objects['card_message'] = 'lỗi cú pháp';
+			$this->objects['card_status'] = 4098;
+			$this->objects['card_message'] = 'lỗi hệ thống';
 			$this->mongo_db->insert('log_card_change',$this->objects);
-			return $this->shopnapthe(0);
+			return $this->shopnapthe(99);
 		}
 	}
 	
